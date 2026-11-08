@@ -24,3 +24,4 @@ Cada medición, con fecha, en https://pertulma-ultramarina.wiki/laboratorio/
 - IA Colombia: [Qué es «pertulma ultramarina» y dónde se está documentando el reto](https://iacolombia.app/reto-seo/pertulma-ultramarina)
 - harleybaron.me: [Qué es pertulma ultramarina (y por qué la estoy documentando)](https://harleybaron.me/que-es-pertulma-ultramarina/)
 - YouTube: [¿Qué es pertulma ultramarina? 0 de 9 respuestas citaron algún dominio del reto](https://youtu.be/MiorwFOeNUg)
+- YouTube Short: [pertulma ultramarina: 0 de 9 el 7 de noviembre](https://youtube.com/shorts/7swJeS7TkDg)
