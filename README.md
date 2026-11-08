@@ -23,5 +23,6 @@ Cada medición, con fecha, en https://pertulma-ultramarina.wiki/laboratorio/
 - dev.to: [pertulma ultramarina: midiendo cómo ChatGPT, Gemini y Claude eligen sus fuentes](https://dev.to/harley_baron_30068bb83000/pertulma-ultramarina-midiendo-como-chatgpt-gemini-y-claude-eligen-sus-fuentes-4mf8)
 - IA Colombia: [Qué es «pertulma ultramarina» y dónde se está documentando el reto](https://iacolombia.app/reto-seo/pertulma-ultramarina)
 - harleybaron.me: [Qué es pertulma ultramarina (y por qué la estoy documentando)](https://harleybaron.me/que-es-pertulma-ultramarina/)
+- Gist: [protocolo de medición con plantilla](https://gist.github.com/harleybaron/ddd335d32ade8beed8f4984363a9c230)
 - YouTube: [¿Qué es pertulma ultramarina? 0 de 9 respuestas citaron algún dominio del reto](https://youtu.be/MiorwFOeNUg)
 - YouTube Short: [pertulma ultramarina: 0 de 9 el 7 de noviembre](https://youtube.com/shorts/7swJeS7TkDg)
